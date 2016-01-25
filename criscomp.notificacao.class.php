@@ -11,8 +11,6 @@
  * @license   https://github.com/criscompbr/class_notify_send/blob/master/LICENSE
  * @link      https://github.com/criscompbr/class_notify_send/blob/master/instalar-notify-send
  * 
- * https://github.com/criscompbr/class_notify_send/tree/master
- * https://help.github.com/articles/set-up-git/
  */
 class criscomp_notify {
 
