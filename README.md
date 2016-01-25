@@ -5,7 +5,7 @@ Suporta somente Ubuntu/Debian
     
 Vou fazer o passo a passo para funciona o notify-send
 
-    1º passo:
+    1º passo: 
     ~$: sudo apt-get update
     
     2º passos:
@@ -17,5 +17,10 @@ Vou fazer o passo a passo para funciona o notify-send
   	4º passos:
     ~$: notify-send "Criscomp" "Testado"
 
+	5º passos:
+    ~$: git clone https://github.com/criscompbr/class_notify_send.git
+
+	6º passos:
+	~$: começa a usar o script ;) boa sorte
 
 Caso não funciona então reportar pelo criscompbr@gmail.com
