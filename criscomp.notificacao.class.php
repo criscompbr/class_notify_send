@@ -14,14 +14,6 @@
 class criscomp_notify {
 
 	/**
-	 * Qual login que você utilizado?
-	 * Por exemplo como você descobre 
-	 * que você tá usado login é só
-	 * tecla ctrl+alt+t ou windows+t
-	 * e veja escrito:
-	 * cristiano@notebookAvell
-	 * e pega o 'cristiano' e não
-	 * @notebookAvell.
 	 *
 	 * @var string
 	 */
@@ -142,7 +134,6 @@ class criscomp_notify {
 
 		$a = explode(" ", $o[0]);
 		if (version_compare($this->versao, $a[1], '>=') === true) {
-			//if (str_replace(".", "", $a[1]) <= str_replace(".", "", $this->versao)) {
 			return true;
 		} else {
 			return false;
