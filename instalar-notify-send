@@ -1,9 +1,18 @@
     Suporta somente Ubuntu/Debian
     
-    Primeiro passo:
+	Vou fazer o passo a passo para funciona o notify-send
+
+    1º passo:
     ~$: sudo apt-get update
     
-    Segundo passo:
+    2º passos:
     ~$: sudo apt-get install notify-osd
     
+    3º passos:
+    ~$: sudo apt-get install notify-osd
     
+	4º passos:
+    ~$: notify-send "Criscomp" "Testado"
+
+
+Caso não funciona então reportar pelo criscompbr@gmail.com
