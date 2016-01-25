@@ -8,7 +8,7 @@
  * @category  PHP
  * @author    Cristiano Thomas <criscompbr@gmail.com>
  * @copyright 2016 Criscomp
- * @link      https://github.com/criscompbr/class_notify_send/blob/master/instalar-notify-send
+ * @link      https://github.com/criscompbr/class_notify_send/
  * 
  */
 class criscomp_notify {
