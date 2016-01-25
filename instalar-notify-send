@@ -9,9 +9,6 @@
     ~$: sudo apt-get install notify-osd
     
     3º passos:
-    ~$: sudo apt-get install notify-osd
-    
-	4º passos:
     ~$: notify-send "Criscomp" "Testado"
 
 
