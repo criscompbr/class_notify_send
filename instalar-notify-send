@@ -1,0 +1,9 @@
+    Suporta somente Ubuntu/Debian
+    
+    Primeiro passo:
+    ~$: sudo apt-get update
+    
+    Segundo passo:
+    ~$: sudo apt-get install notify-osd
+    
+    
